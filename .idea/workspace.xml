@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="316ed760-350c-4684-8507-da3fcb5d6664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/urlencoder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jVj5BAh4YGYiSJat34CvInQbM7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="316ed760-350c-4684-8507-da3fcb5d6664" name="Default Changelist" comment="" />
+      <created>1603895967824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603895967824</updated>
+      <workItem from="1603895968878" duration="382000" />
+      <workItem from="1603896557898" duration="112000" />
+      <workItem from="1603896714540" duration="3088000" />
+      <workItem from="1604840568831" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="-770" key="#JavaScript" timestamp="1603896957491">
+      <screen x="-129" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="679" y="-770" key="#JavaScript/-129.-1057.1920.1057/0.23.1680.978@-129.-1057.1920.1057" timestamp="1603896957491" />
+    <state x="709" y="-696" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603895995817">
+      <screen x="-129" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="709" y="-696" key="#com.intellij.fileTypes.FileTypeChooser/-129.-1057.1920.1057/0.23.1680.978@-129.-1057.1920.1057" timestamp="1603895995817" />
+    <state x="460" y="-867" key="SettingsEditor" timestamp="1603897439342">
+      <screen x="-129" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="460" y="-867" key="SettingsEditor/-129.-1057.1920.1057/0.23.1680.978@-129.-1057.1920.1057" timestamp="1603897439342" />
+    <state x="659" y="-749" width="584" height="544" key="find.popup" timestamp="1603897978543">
+      <screen x="-129" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="659" y="-749" width="584" height="544" key="find.popup/-129.-1057.1920.1057/0.23.1680.978@-129.-1057.1920.1057" timestamp="1603897978543" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1603898504771">
+      <screen x="-129" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/-129.-1057.1920.1057/0.23.1680.978@-129.-1057.1920.1057" timestamp="1603898504771" />
+  </component>
+</project>

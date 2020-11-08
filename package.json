@@ -1,0 +1,23 @@
+{
+  "name": "urlencoder",
+  "version": "1.0.0",
+  "description": "Multiline uri encoder",
+  "engines": {
+    "node": ">=14.7.0"
+  },
+  "main": "encode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryMarkov/batch-uri-encoder.git"
+  },
+  "keywords": [],
+  "author": "Dmitry Markov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryMarkov/batch-uri-encoder/issues"
+  },
+  "homepage": "https://github.com/DmitryMarkov/batch-uri-encoder#readme"
+}
